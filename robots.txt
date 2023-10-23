@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gadogados.github.io/latest-news/sitemapx.xml
